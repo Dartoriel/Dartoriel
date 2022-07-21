@@ -13,7 +13,7 @@
 
 ---
 
-## Padawan na Programação!! <img src="Images/BabyYoda.gif" width="70">
+ <img src="Images/BabyYoda.gif" width="70">
 
 - 👨‍💻 Atualmente estou cursando Analises e Desenvolvimento de Sistemas!...
 - 👯 Estou naquela fase de descobrir tudo!...
